@@ -3,7 +3,7 @@
 <suite name="Test Suite" verbose="1">
     <test name="Automated Tests">
         <classes>
-            <class name="com.autoc0de.TestRunner">
+            <class name="com.practice.TestRunner">
             </class>
         </classes>
     </test>

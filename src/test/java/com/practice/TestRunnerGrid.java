@@ -1,4 +1,4 @@
-package com.autoc0de;
+package com.practice;
 
 import io.cucumber.testng.*;
 import org.testng.annotations.DataProvider;
@@ -12,8 +12,8 @@ import org.testng.annotations.DataProvider;
 
         },
         features = {"src/test/resources/features"},
-        glue = {"com.autoc0de.steps", "com.core.hooks"},
-        tags = "@ExampleTag"
+        glue = {"com.practice.steps", "com.core.hooks"}
+        //, tags = "@ExampleTag"
 )
 
 public class TestRunnerGrid extends AbstractTestNGCucumberTests {

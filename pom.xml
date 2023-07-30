@@ -14,9 +14,9 @@
 
     <developers>
         <developer>
-            <id>jvitelli</id>
-            <name>Joel Vitelli</name>
-            <email>jvitelli92@gmail.com</email>
+            <id>Juli-CVidal</id>
+            <name>Julián Vidal</name>
+            <email>juli.vidal.019@gmail.com</email>
             <timezone>Latam/Argentina</timezone>
         </developer>
     </developers>
@@ -72,9 +72,9 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <cucumber.version>6.8.0</cucumber.version>
         <!-- Replace with your own URL of the Web Product to automate -->
-        <web.url>https://underc0de.org/</web.url>
+        <web.url>https://academybugs.com/</web.url>
         <!-- Replace with your environment                            -->
-        <web.environment>Environment</web.environment>
+        <web.environment>Local</web.environment>
         <runner>testing.xml</runner>
     </properties>
 

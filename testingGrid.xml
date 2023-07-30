@@ -4,7 +4,7 @@
 <test name="Parallel test" annotations="JDK" preserve-order="true">
     <!-- Specify the Run Suite classes which needed to be run in parallel -->
     <classes>
-        <class name="com.autoc0de.TestRunnerGrid"/>
+        <class name="com.practice.TestRunnerGrid"/>
     </classes>
 </test>
 </suite>
